@@ -28,8 +28,8 @@ Feel free to check out my repositories for more!
 
 ## GitHub Statistics
 
-![Mitchel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Mitchel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrennan91&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrennan91&layout=compact&theme=dark)
 
 ---
 
