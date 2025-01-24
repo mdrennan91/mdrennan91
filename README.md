@@ -29,7 +29,9 @@ Feel free to check out my repositories for more!
 ## GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrennan91&layout=compact&theme=dark)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrennan91&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<br>
 ![Mitchel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrennan91&show_icons=true&theme=dark)
 
 ---
