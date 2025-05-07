@@ -1,6 +1,6 @@
 # Hi there! I'm Mitchel
 
-I'm a **Software Development** student at **BYU-Idaho** and a **remote Application Software Support Specialist** at **Nubill Corporation**. My goal is to become a **Full-Stack Web Developer**, leveraging my background in **customer service** and **automotive repair** to enhance my communication and problem-solving skills in the tech industry.
+I'm a **Software Development** student at **BYU-Idaho** and a **Frontend Developer Intern** at **Nubill Corporation**. Before that, I spent two years doing QA, smoke testing, and writing end-user docs across multiple projects. 
 
 ---
 
