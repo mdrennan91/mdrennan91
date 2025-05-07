@@ -4,28 +4,6 @@ I'm a **Software Development** student at **BYU-Idaho** and a **remote Applicati
 
 ---
 
-## Skills & Technologies
-
-- **Languages:** HTML, CSS, JavaScript, Python, C#
-- **Technologies:** Databases, Web Development, Graphic Design
-- **Other:** Software Support, QA, Smoke Testing, End-User Documentation
-
----
-
-## Projects & Work
-
-Here are some of the projects I've worked on:
-
-- **[SCOOTS Website](https://mdrennan91.github.io/wdd230/scoots/index.html)** – School project website for a fake scooter company.
-- **[Spokane Valley Chamber Gateway](https://mdrennan91.github.io/wdd230/chamber/index.html)** – School project website for a mock chamber of commerce.
-- **[Cat Facts](https://mdrennan91.github.io/cse121b/catfacts.html)** – School project website for generating cat facts using an API.
-- **[Automotive Photography](https://mdrennan91.github.io/wdd130/autofocus/index.html)** – School project website showcasing my automotive photography.
-- **More Coming Soon!**
-
-Feel free to check out my repositories for more!
-
----
-
 ## GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrennan91&layout=compact&theme=dark)
